@@ -9,6 +9,6 @@
 | Exploratory Data Analysis - Roller Coasters | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/NISS-Workshop/blob/main/lessons/RollerCoastersExample.ipynb) |
 | Statistical Thinking Foundations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/NISS-Workshop/blob/main/lessons/statistical_thinking_foundations.ipynb) |
 | Machine Learning Overview | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/NISS-Workshop/blob/main/lessons/ml_overview.ipynb) |
-| Machine Learning: Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/NISS-Workshop/blob/main/lessons/ml_regression.ipynb) |
+| Machine Learning - Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/NISS-Workshop/blob/main/lessons/ml_regression.ipynb) |
 | Physics-Informed Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/NISS-Workshop/blob/main/lessons/pinn.ipynb) |
-| SIRD - PINNs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/NISS-Workshop/blob/main/lessons/dinn.ipynb) |
+| PINNs - SIRD | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/NISS-Workshop/blob/main/lessons/pinn-sird.ipynb) |
